@@ -10,6 +10,8 @@
 
 # production
 /build
+/.netlify
+/node_modules
 
 # misc
 .DS_Store
